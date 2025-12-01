@@ -15,6 +15,8 @@ The system leverages the following key technologies:
 • Security: Password hashing using bcrypt.
 • Core Libraries: Python’s datetime, uuid, regex, and os modules.
 
+![WhatsApp Image 2025-12-01 at 10 46 16 PM](https://github.com/user-attachments/assets/f9d48c48-dd56-499f-b40e-d3d70ca77253)
+
 Key Features :
 The system is built around several core and advanced features designed to enhance security, efficiency, and user experience.
 1. Security and Authentication
